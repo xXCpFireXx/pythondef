@@ -1,6 +1,25 @@
-# 🐍 Ejercicios prácticos con funciones en Python (nivel principiante con experiencia previa)
+# 🐍 Ejercicios prácticos con funciones en Python
 
-Esta colección incluye 10 ejercicios prácticos para personas que ya tienen experiencia básica en Python. Cada ejercicio se enfoca en escribir funciones simples pero útiles para reforzar el uso de parámetros, retornos y lógica básica.
+Esta colección incluye 10 ejercicios prácticos. Cada ejercicio se enfoca en escribir funciones simples pero útiles para reforzar el uso de parámetros, retornos y lógica básica.
+
+##  Archivos incluidos
+
+- ```testing.py```: Contiene pruebas unitarias para verificar el funcionamiento de cada función
+
+## Requisitos
+
+- Python 3.8+
+- `pytest` instalado (puedes instalarlo con `pip install pytest`)
+
+## Cómo ejecutar las pruebas
+
+1. Clona este repositorio o descarga los archivos.
+2. Abre la terminal y navega a la carpeta donde se encuentran los archivos.
+3. Ejecuta el siguiente comando:
+
+```bash
+pytest testing.py
+```
 
 ## 🚀 Ejercicios
 

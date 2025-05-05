@@ -5,8 +5,8 @@ Este proyecto contiene una colección de funciones diseñadas para desarrollar l
 
 ## Archivos incluidos
 
-- `funciones_avanzadas.py`: Contiene 5 funciones útiles aplicadas a casos de uso reales como carrito de compras, análisis de texto, generación de contraseñas, entre otros.
-- `test_funciones.py`: Contiene pruebas unitarias para verificar el funcionamiento de cada función.
+- `advance_functions.py`: Contiene 5 funciones útiles aplicadas a casos de uso reales como carrito de compras, análisis de texto, generación de contraseñas, entre otros.
+- `testing.py`: Contiene pruebas unitarias para verificar el funcionamiento de cada función.
 
 ## Requisitos
 
@@ -20,7 +20,7 @@ Este proyecto contiene una colección de funciones diseñadas para desarrollar l
 3. Ejecuta el siguiente comando:
 
 ```bash
-pytest test_funciones.py
+pytest testing.py
 ```
 
 ## Descripción de las funciones
