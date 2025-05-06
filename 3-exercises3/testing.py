@@ -1,6 +1,3 @@
-# --- test_exercises.py ---
-# Basic tests using pytest for the 10 exercises
-
 from functions import *
 
 # 1. Library Book Tracker
